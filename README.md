@@ -1,2 +1,2 @@
 # PrivateCodeSample
-Private Sample of Frontend React Component Code 
+Sample of Frontend React Component Code 
